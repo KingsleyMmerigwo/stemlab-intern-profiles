@@ -86,3 +86,4 @@ Edit
 | John Doe        | Bayero University    | I can solve a Rubik's cube!  | @johndoe     | linkedin.com/in/johndoe         | facebook.com/johndoe       |
 | Aisha Bello     | ABU Zaria            | I love skydiving.            | @aishabello  | linkedin.com/in/aishabello      | facebook.com/aishabello    |
 | Chinedu Eze     | UNILAG               | I speak 4 languages.         | @chinedueze  | linkedin.com/in/chinedueze      | facebook.com/chinedueze    |
+| Kingsley Mmerigwo        | Federal University Dutse   | I love playing video games.  | @Kingsley_alex0     | linkedin.com/in/KingsleyMmerigwo        | facebook.com/Kingsley Alex       |
